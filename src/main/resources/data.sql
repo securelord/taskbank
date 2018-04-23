@@ -1,0 +1,2 @@
+INSERT INTO client (id, email, name, last_name, sur_name, telephone) VALUES (1, 'client1@email.com', 'Client1', 'Client1LastName', 'Client1Surname', '+380000000001');
+INSERT INTO client (id, email, name, last_name, sur_name, telephone) VALUES (2, 'client2@email.com', 'Client2', 'Client2LastName', 'Client2Surname', '+380000000002');
